@@ -1,0 +1,129 @@
+html, body {
+    height: 10%;
+    margin: 0;
+    padding: 0;
+}
+.sugerencias_herramienta:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor1:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor2:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor3:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor4:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor5:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor6:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_trasladista:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_cliente:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_asesor_solicitante:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+.sugerencias_informante:hover {
+    background-color: #adadad;
+    cursor: default;
+}
+#map {
+    /* margin: 50px;
+    padding: 10%;*/
+    padding: 30% 10% 20%;
+    width: 100%;
+    /* height: 10%;*/
+}
+/* Optional: Makes the sample page fill the window. */
+
+.controls {
+    margin-top: 10px;
+    border: 1px solid transparent;
+    border-radius: 2px 0 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    height: 32px;
+    outline: none;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+}
+#origin-input, #destination-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 12px;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 200px;
+}
+#origin-input:focus, #destination-input:focus {
+    border-color: #4d90fe;
+}
+#mode-selector {
+    color: #fff;
+    background-color: #4d90fe;
+    margin-left: 12px;
+    padding: 5px 11px 0px 11px;
+}
+#mode-selector label {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+}
+.JAYAC {
+    font-size: x-large;
+    text-align: center;
+}
+#spa {
+    font-weight: bold;
+    color: #4CAF50;
+}
+#spa-red {
+    font-weight: bold;
+    color: #880002;
+}
+hr.saltoprincipal {
+    border: 1px solid gainsboro;
+}
+.stilo_border {
+    width: 100%;
+    margin: 20px 0;
+    box-sizing: border-box;
+    border: 2px solid #ff9900;
+    border-radius: 4px;
+}
+.rolex_vin {
+    width: 100%;
+    margin: 20px 0;
+    box-sizing: border-box;
+    border: 2px solid #ff9900;
+    border-radius: 4px;
+}
+hr.style5 {
+    background-color: #fff;
+    border-top: 2px dashed #8c8b8b;
+}
